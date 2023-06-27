@@ -1,0 +1,15 @@
+**/packages/*
+**/bin/*
+**/obj/*
+**/.vs/*
+**/.config/*
+**/logs/*
+**/node_modules/*
+**/build/*
+*.csproj.user
+*.cache*.cache
+*.suo
+.gitignore.rej
+*.pdb
+*.dll
+*.cache
